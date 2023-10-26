@@ -8,9 +8,9 @@ I'm a cat-mom and enjoying the company of my little daughter Roma while I'm codi
 
 ## 📊 GitHub Profile Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=isdeniz&show_icons=true&theme=blueberry)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=isdeniz&show_icons=true&theme=nightowl)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isdeniz&layout=compact&theme=blueberry)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isdeniz&layout=compact&theme=nightowl)
 
 ## 📫 How to connect with me?
 
