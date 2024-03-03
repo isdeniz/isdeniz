@@ -1,7 +1,7 @@
 # Hello, I'm Selin! ✨
 
-I'm a software developer who is interested with developing enterprise applications, conducting machine learning projects and becoming an expert in agile project management. 
-I have extensive experience with Python and I'm familiar with Java, C# and OOP concepts. 
+I'm a business data analytics professional who is interested with developing machine learning applications, conducting software development projects and becoming an expert in agile project management. 
+I have extensive experience with Python, OOP concepts, and MS Power BI. 
 
 I'm studying on my master's thesis in the area of machine learning @Middle East Technical University and working as a Business Analytics Team Lead @Turkish Aerospace. 
 I'm a cat-mom and enjoying the company of my little daughter Roma while I'm coding and conducting research. 
