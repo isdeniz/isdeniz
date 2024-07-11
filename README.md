@@ -17,3 +17,7 @@ I'm a cat-mom and enjoying the company of my little daughter Roma while I'm codi
 <p align="left">
   <a href="https://www.linkedin.com/in/isdeniz/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"/></a>
 </p>
+
+<p align="left">
+  <a href="https://medium.com/@isdeniz"><img src="https://img.shields.io/badge/-Medium-12100E?style=flat&amp;logo=Medium&amp;logoColor=white"/></a>
+</p>
