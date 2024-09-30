@@ -1,9 +1,9 @@
 # Hello, I'm Selin! ✨
 
 I'm a business data analytics professional who is interested with developing machine learning applications, managing software development projects and becoming an expert in agile project management. 
-I have extensive experience with Python, OOP concepts, and MS Power BI. 
+I have extensive experience with Python and large language models. 
+Recently, graduated with a Master of Science in Information Systems from Middle East Technical University. 
 
-I'm studying on my master's thesis in the area of machine learning @Middle East Technical University and working as a Business Analytics Team Lead @Turkish Aerospace. 
 I'm a cat-mom and enjoying the company of my little daughter Roma while I'm coding and conducting research. 
 
 ## 📊 GitHub Profile Stats
