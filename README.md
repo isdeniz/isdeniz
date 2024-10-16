@@ -1,6 +1,6 @@
 # Hello, I'm Selin! ✨
 
-I'm a business data analytics professional who is interested with developing machine learning applications, managing software development projects and becoming an expert in agile project management. 
+I'm a business data analytics professional who is interested with developing machine learning applications with large language models, managing software development projects and becoming an expert in agile project management. 
 I have extensive experience in data science and machine learning, with a special focus on large language models. 
 Recently, graduated with a Master of Science in Information Systems from Middle East Technical University. 
 
